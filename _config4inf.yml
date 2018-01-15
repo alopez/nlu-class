@@ -1,0 +1,9 @@
+exclude: ['README.md', 'hw1']
+timezone: GMT
+markdown: kramdown
+destination: ../nlu
+encoding: UTF-8 
+defaults:
+  -
+    values:
+      layout: "common"
