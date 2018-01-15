@@ -1,0 +1,63 @@
+---
+- name: Week 1
+  plan:
+  - date: 2018-01-16
+    header: 
+    - title: "Introduction"
+      slides: assets/slides/2018/1.pdf
+    items:
+    - description: Piazza signup
+      url: https://piazza.com/ed.ac.uk/spring2018/infr11133
+    - description: A Primer on Neural Network Models for Natural Language Processing (Goldberg 2015)
+      url: https://arxiv.org/pdf/1510.00726v1.pdf
+    - description: Computational linguistics and deep learning (Manning 2015)
+      url: https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239
+  - date: 2018-01-19
+    header:
+    - title: "Perceptrons and backpropagation"
+      oldslides: assets/slides/2017/nlu_l05_nnets.pdf
+- name: Week 2
+  plan:
+  - date: 2018-01-23
+  - date: 2018-01-26
+- name: Week 3
+  plan:
+  - date: 2018-01-30
+  - date: 2018-02-02
+- name: Week 4
+  plan:
+  - date: 2018-02-06
+    header:
+    - title: 'Guest lecture by <a href="https://www.linkedin.com/in/anichol/">Alan Nichol</a>, co-founder of <a href="https://rasa.ai/">Rasa</a>, on conversational AI'
+      type: lecture
+- name: Week 5
+  plan:
+  - date: 2018-02-13
+  - date: 2018-02-16
+- plan:
+  - header:
+    - title: The <a href="http://www.festivalofcreativelearning.ed.ac.uk/">Festival of Creative Learning</a> happens the week of 19 Feb. No lectures.
+- name: Week 6
+  plan:
+  - date: 2018-02-27
+  - date: 2018-03-02
+- name: Week 7
+  plan:
+  - date: 2018-03-06
+  - date: 2018-03-09
+- name: Week 8
+  plan:
+  - date: 2018-03-13
+  - date: 2018-03-16
+- name: Week 9
+  plan:
+  - date: 2018-03-20
+  - date: 2018-03-23
+- name: Week 10
+  plan:
+  - date: 2018-03-27
+  - date: 2018-03-30
+- name: Week 11
+  plan:
+  - date: 2018-04-03
+
