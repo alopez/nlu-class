@@ -32,8 +32,8 @@ not take NLU.
 
 #### Time and Place
 
-- Tuesdays 15:10--16:00, 50 George Square, Lecture theatre G.03
-- Fridays 15:10--16:00, Medical School, Teviot lecture theatre, doorway 5
+- Tuesdays 16:10--17:00, Davide Hume Tower, lecture theatre A 
+- Fridays 16:10--17:00, Medical School, Teviot lecture theatre, doorway 5
 
 Lectures will be recorded and made available through the university's
 lecture capture service.
