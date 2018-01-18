@@ -75,7 +75,7 @@ You can also seek additional help. We offer:
 
 - A weekly in-person office hour Fridays 2-3, starting week 3. Location TBD.
 - A weekly online office hour, Wednesdays 3-4, starting week 3. Details TBD.
-- A [piazza](piazza.com/ed.ac.uk/spring2018/infr11061/home) forum. The teaching team will
+- A [piazza](https://piazza.com/ed.ac.uk/spring2018/infr11061/home) forum. The teaching team will
   monitor the forum for unanswered questions **once a day, Monday through Friday**,
   usually in the afternoon. **You are encouraged to answer other students' questions**,
   since if you can answer someone's question, you know the material. We will
