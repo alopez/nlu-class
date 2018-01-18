@@ -33,6 +33,7 @@ not take NLU.
 #### Time and Place
 
 - Tuesdays 16:10--17:00, Davide Hume Tower, lecture theatre A 
+- Friday, week 1: *15:10--1600*, Medical School, Teviot lecture theatre, doorway 5
 - Fridays 16:10--17:00, Medical School, Teviot lecture theatre, doorway 5
 
 Lectures will be recorded and made available through the university's
