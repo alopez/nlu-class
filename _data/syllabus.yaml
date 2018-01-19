@@ -15,7 +15,10 @@
   - date: 2018-01-19
     header:
     - title: "Perceptrons and backpropagation"
-      oldslides: assets/slides/2017/nlu_l05_nnets.pdf
+      slides: assets/slides/2018/l02.pdf
+    items:
+    - description: Gurney (1997), Ch. 2-5
+      url: assets/reading/Gurney_et_al.pdf
 - name: Week 2
   plan:
   - date: 2018-01-23
