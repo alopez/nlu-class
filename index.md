@@ -58,9 +58,11 @@ To request an extension on your coursework, [contact the ITO](http://web.inf.ed.
 If you contact me, I will simply redirect you to them, because I am not empowered to grant extensions myself.
 
 The course will follow the [academic conduct policy](http://web.inf.ed.ac.uk/infweb/admin/policies/academic-misconduct). 
-I take this policy seriously: in 2017 I referred 22 students for academic misconduct, including collustion and plagiarism. 
-I don't enjoy doing this, but I will do it without hesitation if you violate 
-the policy, so please familiarize yourself with it.
+I take this policy seriously: in 2017 I referred 22 students for academic 
+misconduct, including collusion and plagiarism. I don't enjoy doing this, 
+but I will do it without hesitation if you violate the policy, because academic
+misconduct disadvantages other students. So please familiarize yourself 
+with the policy.
 
 #### Feedback and help
 
