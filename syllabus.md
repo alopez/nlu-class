@@ -4,10 +4,15 @@ active_tab: syllabus
 ---
 
 This syllabus is still being revised, so topics of future lectures are subject to change.
-Video links are only accessible to students registered for the course in learn.
 
 There will be around fifteen lectures, and a few feedforward sessions for
 the coursework and exams.
+
+<div class="alert alert-info">
+Students enrolled in the course can access lecture recordings through learn.
+On the course page in learn, click the "Media Hopper Replay" link in the 
+left sidebar.
+</div>
 
 <table class="table table-striped"> 
   <thead>
