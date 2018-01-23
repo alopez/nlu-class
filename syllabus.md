@@ -3,7 +3,8 @@ title: NLU Syllabus
 active_tab: syllabus
 ---
 
-This syllabus is still under development and subject to change.
+This syllabus is still being revised, so topics of future lectures are subject to change.
+Video links are only accessible to students registered for the course in learn.
 
 There will be around fifteen lectures, and a few feedforward sessions for
 the coursework and exams.
@@ -39,7 +40,7 @@ the coursework and exams.
             {{ header.title }}<br/>
             {% if header.video %}<a href="{{ header.video }}"><span class="label label-success">Video</span></a>{% endif %}
             {% if header.slides %}<a href="{{ header.slides }}"><span class="label label-primary">Slides</span></a>{% endif %}
-            {% if header.notes %}<a href="{{ header.notes }}"><span class="label label-info">Lecture notes</span></a>{% endif %}
+            {% if header.notes %}<a href="{{ header.notes }}"><span class="label label-info">4up slides</span></a>{% endif %}
             {% if header.oldslides %}<a href="{{ header.oldslides }}"><span class="label label-default">2017 slides</span></a>{% endif %}
           {% endfor %}
           {% if day.items %}

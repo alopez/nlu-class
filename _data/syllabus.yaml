@@ -5,6 +5,8 @@
     header: 
     - title: "Introduction"
       slides: assets/slides/2018/1.pdf
+      video: https://echo360.org.uk/lesson/95c97cf8-f0f6-4ce7-bdf1-ecd202982e71/classroom
+      notes: assets/handouts/l01-handout.pdf
     items:
     - description: Piazza signup
       url: https://piazza.com/ed.ac.uk/spring2018/infr11061
@@ -16,17 +18,40 @@
     header:
     - title: "Perceptrons and backpropagation"
       slides: assets/slides/2018/l02.pdf
+      video: https://echo360.org.uk/lesson/G_f3066b5d-0229-4620-b24b-a0ea41848ec0_2149042c-5c7f-4887-af6d-1094a27f1775_2018-01-19T15:10:00.000_2018-01-19T16:05:00.000/classroom
+      notes: assets/handouts/l02-handout.pdf
     items:
     - description: Gurney (1997), Ch. 2-5
       url: assets/reading/Gurney_et_al.pdf
 - name: Week 2
   plan:
   - date: 2018-01-23
+    header: 
+    - title: "Feedforward language models"
+      slides: assets/slides/2018/l03.pdf 
+      notes: assets/handouts/l03-handout.pdf
+    items:
+    - description: "A neural probabilistic language model (Bengio et al. 2003)"
+      url: http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
   - date: 2018-01-26
+    header:
+    - title: "Recurrent language models"
+      oldslides: slides/2017/nlu_l12_rnn.pdf
+    items:
+    - description: "Recurrent neural network based language model (Mikolov et al. 2010)"
+      url: http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
+    - description: "Understanding LSTM networks (Olah 2015)"
+      url: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 - name: Week 3
   plan:
   - date: 2018-01-30
+    header:
+    - title: "Morphology"
+      type: lecture
   - date: 2018-02-02
+    header:
+    - title: "Morphology"
+      type: lecture
 - name: Week 4
   plan:
   - date: 2018-02-06
@@ -36,22 +61,50 @@
 - name: Week 5
   plan:
   - date: 2018-02-13
+    header: 
+      title: "TBD"
   - date: 2018-02-16
+    header: 
+    - title: "POS tagging"
+      type: lecture
+      oldslides: assets/slides/2017/nlu_l10_unsuptag1.pdf 
+    items: 
 - plan:
   - header:
     - title: The <a href="http://www.festivalofcreativelearning.ed.ac.uk/">Festival of Creative Learning</a> happens the week of 19 Feb. No lectures.
 - name: Week 6
   plan:
   - date: 2018-02-27
+    header: 
+    - title: "Unsupervised POS tagging"
+      type: lecture
+      oldslides: assets/slides/2017/nlu_l11_unsuptag2.pdf
+    items:
   - date: 2018-03-02
+    header: 
+    - title: "Feedforward session for coursework"
 - name: Week 7
   plan:
   - date: 2018-03-06
+    header: 
+    - title: "Dependency parsing"
+      type: lecture
+      oldslides: assets/slides/2017/nlu_l08_depparsing1.pdf
   - date: 2018-03-09
+    header: 
+    - title: "Dependency parsing"
+      type: lecture
+      oldslides: assets/slides/2017/nlu_l09_depparsing2.pdf
 - name: Week 8
   plan:
   - date: 2018-03-13
+    header: 
+    - title: "Semantic role labeling"
+      type: lecture
+      oldslides: assets/slides/2017/nlu_l14_srl.pdf
   - date: 2018-03-16
+    header: 
+    - title: "Semantic parsing"
 - name: Week 9
   plan:
   - date: 2018-03-20
