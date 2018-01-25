@@ -9,7 +9,7 @@ git add .
 git commit -m "$1"
 
 # generate new website
-jekyll build --config _config4inf.yaml
+jekyll build --config _config4inf.yml
 
 # move to publishing directory
 pushd .

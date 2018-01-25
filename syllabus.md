@@ -9,9 +9,9 @@ There will be around fifteen lectures, and a few feedforward sessions for
 the coursework and exams.
 
 <div class="alert alert-info">
-Students enrolled in the course can access lecture recordings through learn.
-On the course page in learn, click the "Media Hopper Replay" link in the 
-left sidebar.
+Students enrolled in the course can access lecture recordings through 
+<a href="learn.ed.ac.uk">learn</a> using the "Media Hopper Replay" link in 
+the left sidebar.
 </div>
 
 <table class="table table-striped"> 
