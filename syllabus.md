@@ -10,7 +10,7 @@ the coursework and exams.
 
 <div class="alert alert-info">
 Students enrolled in the course can access lecture recordings through 
-<a href="learn.ed.ac.uk">learn</a> using the "Media Hopper Replay" link in 
+<a href="https://www.learn.ed.ac.uk">learn</a> using the "Media Hopper Replay" link in 
 the left sidebar.
 </div>
 
