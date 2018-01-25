@@ -8,6 +8,9 @@ fi
 git add .
 git commit -m "$1"
 
+# put on github for safekeeping
+git push origin master
+
 # generate new website
 jekyll build --config _config4inf.yml
 
