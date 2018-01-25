@@ -16,6 +16,7 @@ pushd .
 cd ../nlu
 
 # publish new website
+git add .
 git commit -m "$1"
 git cvsexportcommit -w ../web/teaching/courses/nlu -u -p -c HEAD^ HEAD
 
