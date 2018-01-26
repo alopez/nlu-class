@@ -34,7 +34,8 @@
   - date: 2018-01-26
     header:
     - title: "Recurrent language models"
-      oldslides: slides/2017/nlu_l12_rnn.pdf
+      slides: slides/2018/l04.pdf
+      notes: assets/handouts/l04-handout.pdf
     items:
     - description: "Recurrent neural network based language model (Mikolov et al. 2010)"
       url: http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
