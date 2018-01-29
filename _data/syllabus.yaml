@@ -45,12 +45,22 @@
   plan:
   - date: 2018-01-30
     header:
-    - title: "Morphology"
+    - title: "Compositional word representations and morphology"
       type: lecture
+    items:
+    - description: "Distributed Representations of Words and Phrases and their Compositionality (Mikolov et. 2013)"
+      url: "http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf"
+    - description: "Better Word Representations with Recursive Neural Networks for Morphology (Luong et al. 2013)"
+      url: "http://www.aclweb.org/anthology/W13-3512"
   - date: 2018-02-02
     header:
-    - title: "Morphology"
+    - title: "Compositional word representations and characters"
       type: lecture
+    items:
+    - description: "Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation (Ling et al. 2015)"
+      url: "https://aclweb.org/anthology/D15-1176"
+    - description: "From Characters to Words to in Between: Do We Capture Morphology? (Vania and Lopez 2017)"
+      url: "http://aclweb.org/anthology/P17-1184"
 - name: Week 4
   plan:
   - date: 2018-02-06
