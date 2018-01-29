@@ -67,11 +67,14 @@
     header:
     - title: 'Guest lecture by <a href="https://www.linkedin.com/in/anichol/">Alan Nichol</a>, co-founder of <a href="https://rasa.ai/">Rasa</a>, on conversational AI'
       type: lecture
+  - date: ""
+    header:
+    - title: '<i>No meeting on Feb 9</i>'
 - name: Week 5
   plan:
   - date: 2018-02-13
     header: 
-      title: "TBD"
+    - title: "<i>Tentative: feedforward session</i>"
   - date: 2018-02-16
     header: 
     - title: "POS tagging"
