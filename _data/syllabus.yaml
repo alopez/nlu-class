@@ -47,6 +47,8 @@
     header:
     - title: "Compositional word representations and morphology"
       type: lecture
+      slides: assets/slides/2018/l05.pdf
+      notes: assets/handouts/l05-handout.pdf
     items:
     - description: "Distributed Representations of Words and Phrases and their Compositionality (Mikolov et. 2013)"
       url: "http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf"
