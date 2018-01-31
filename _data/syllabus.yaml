@@ -45,7 +45,7 @@
   plan:
   - date: 2018-01-30
     header:
-    - title: "Compositional word representations and morphology"
+    - title: "Word representations and morphology"
       type: lecture
       slides: assets/slides/2018/l05.pdf
       notes: assets/handouts/l05-handout.pdf
@@ -56,7 +56,7 @@
       url: "http://www.aclweb.org/anthology/W13-3512"
   - date: 2018-02-02
     header:
-    - title: "Compositional word representations and characters"
+    - title: "Compositional character representations"
       type: lecture
     items:
     - description: "Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation (Ling et al. 2015)"
