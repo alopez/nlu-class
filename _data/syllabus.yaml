@@ -58,6 +58,8 @@
     header:
     - title: "Compositional character representations"
       type: lecture
+      slides: assets/slides/2018/l06.pdf
+      notes: assets/handouts/l06-handout.pdf
     items:
     - description: "Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation (Ling et al. 2015)"
       url: "https://aclweb.org/anthology/D15-1176"
