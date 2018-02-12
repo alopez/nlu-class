@@ -76,14 +76,13 @@
     - title: '<i>No meeting on Feb 9</i>'
 - name: Week 5
   plan:
-  - date: 2018-02-13
+  - date: ""
     header: 
-    - title: "<i>Tentative: feedforward session</i>"
+    - title: "<i>No meeting on Feb 13</i>"
   - date: 2018-02-16
     header: 
-    - title: "POS tagging"
+    - title: "Feedforward session"
       type: lecture
-      oldslides: assets/slides/2017/nlu_l10_unsuptag1.pdf 
     items: 
 - plan:
   - header:
