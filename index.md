@@ -64,6 +64,14 @@ but I will do it without hesitation if you violate the policy, because academic
 misconduct disadvantages other students. So please familiarize yourself 
 with the policy.
 
+#### Coursework
+
+Due 16 March at 4pm (right before lecture).
+
+[Instructions](assets/cw/nlu-coursework.pdf)
+
+[Code and data](assets/cw/nlu-coursework.tar.gz)
+
 #### Feedback and help
 
 Through the course, you will receive feedback in several ways:
