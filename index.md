@@ -50,7 +50,7 @@ lecture capture service.
 
 Assessment will consist of:
 
-1. A coursework, due in week 7, worth 30%. I encourage you to work in pairs---you'll learn more that way.
+1. A coursework, due in week 8, worth 30%. I encourage you to work in pairs---you'll learn more that way.
 1. A final exam in the April/ May diet, worth 70%.
 
 The course will follow the school-wide [late coursework policy](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/coursework-projects/late-coursework-extension-requests). 
