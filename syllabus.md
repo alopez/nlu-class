@@ -41,7 +41,7 @@ the left sidebar.
         <td>{{ day.date | date: "%b %d" }}</td>
         <td>
           {% for header in day.header %}
-            {% if header.type == "coursework" %}<span class="label label-danger">Coursework</span>{% endif %}
+            {% if header.type == "coursework" %}<span class="label label-danger">Coursework Due!</span>{% endif %}
             {{ header.title }}<br/>
             {% if header.video %}<a href="{{ header.video }}"><span class="label label-success">Video</span></a>{% endif %}
             {% if header.slides %}<a href="{{ header.slides }}"><span class="label label-primary">Slides</span></a>{% endif %}

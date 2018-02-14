@@ -97,19 +97,19 @@
     items:
   - date: 2018-03-02
     header: 
-    - title: "Feedforward session for coursework"
+    - title: "Dependency parsing"
+      type: lecture
+      oldslides: assets/slides/2017/nlu_l08_depparsing1.pdf
 - name: Week 7
   plan:
   - date: 2018-03-06
     header: 
     - title: "Dependency parsing"
       type: lecture
-      oldslides: assets/slides/2017/nlu_l08_depparsing1.pdf
+      oldslides: assets/slides/2017/nlu_l09_depparsing2.pdf
   - date: 2018-03-09
     header: 
-    - title: "Dependency parsing"
-      type: lecture
-      oldslides: assets/slides/2017/nlu_l09_depparsing2.pdf
+    - title: "Feedforward session for coursework"
 - name: Week 8
   plan:
   - date: 2018-03-13
@@ -120,15 +120,26 @@
   - date: 2018-03-16
     header: 
     - title: "Semantic parsing"
+      type: coursework
 - name: Week 9
   plan:
   - date: 2018-03-20
+    header:
+    - title: "TBA (Advanced topics)"
   - date: 2018-03-23
+    header:
+    - title: "TBA (Advanced topics)"
 - name: Week 10
   plan:
   - date: 2018-03-27
+    header:
+    - title: "TBA (Advanced topics)"
   - date: 2018-03-30
+    header:
+    - title: "TBA (Advanced topics)"
 - name: Week 11
   plan:
   - date: 2018-04-03
+    header: 
+    - title: "Feedforward session for exam"
 
