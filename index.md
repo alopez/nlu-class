@@ -83,8 +83,8 @@ Through the course, you will receive feedback in several ways:
 
 You can also seek additional help. We offer:
 
-- A weekly in-person office hour Fridays 2-3, starting week 3. Location TBD.
-- A weekly online office hour, Wednesdays 3-4, starting week 3. Details TBD.
+- A weekly in-person office hour, starting week 3. Details announced weekly to course mailing list.
+- A weekly online office hour, starting week 3. Details announced weekly to course mailing list.
 - A [piazza](https://piazza.com/ed.ac.uk/spring2018/infr11061/home) forum. The teaching team will
   monitor the forum for unanswered questions **once a day, Monday through Friday**,
   usually in the afternoon. **You are encouraged to answer other students' questions**,
