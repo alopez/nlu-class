@@ -73,15 +73,15 @@
       type: lecture
   - date: ""
     header:
-    - title: '<i>No meeting on Feb 9</i>'
+    - title: '<i>No meeting on 11 Feb</i>'
 - name: Week 5
   plan:
   - date: ""
     header: 
-    - title: "<i>No meeting on Feb 13</i>"
+    - title: "<i>No meeting on 13 Feb</i>"
   - date: 2018-02-16
     header: 
-    - title: "Feedforward session"
+    - title: "Feedforward session for coursework"
       type: lecture
     items: 
 - plan:
@@ -91,9 +91,7 @@
   plan:
   - date: 2018-02-27
     header: 
-    - title: "Unsupervised POS tagging"
-      type: lecture
-      oldslides: assets/slides/2017/nlu_l11_unsuptag2.pdf
+    - title: "<i>No meeting on 27 Feb</i>"
     items:
   - date: 2018-03-02
     header: 
@@ -104,42 +102,39 @@
   plan:
   - date: 2018-03-06
     header: 
-    - title: "Dependency parsing"
-      type: lecture
-      oldslides: assets/slides/2017/nlu_l09_depparsing2.pdf
+    - title: "<i>TBD</i>"
   - date: 2018-03-09
     header: 
     - title: "Feedforward session for coursework"
 - name: Week 8
   plan:
-  - date: 2018-03-13
-    header: 
-    - title: "Semantic role labeling"
+  - header: 
+    - title: "<i>Plans for this week TBD</i>"
       type: lecture
-      oldslides: assets/slides/2017/nlu_l14_srl.pdf
   - date: 2018-03-16
     header: 
-    - title: "Semantic parsing"
-      type: coursework
+    - type: coursework
 - name: Week 9
   plan:
-  - date: 2018-03-20
-    header:
-    - title: "TBA (Advanced topics)"
+  - header:
+    - title: "<i>20 March: TBD</i>"
   - date: 2018-03-23
     header:
-    - title: "TBA (Advanced topics)"
+    - title: "Dependency parsing"
 - name: Week 10
   plan:
   - date: 2018-03-27
     header:
-    - title: "TBA (Advanced topics)"
+    - title: "Semantic role labeling"
+      oldslides: assets/slides/2017/nlu_l14_srl.pdf
   - date: 2018-03-30
     header:
-    - title: "TBA (Advanced topics)"
+    - title: "TBD"
 - name: Week 11
   plan:
   - date: 2018-04-03
     header: 
+    - title: "Bias"
+  - date: 2018-04-06
+    header:
     - title: "Feedforward session for exam"
-
