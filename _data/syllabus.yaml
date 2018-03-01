@@ -97,7 +97,13 @@
     header: 
     - title: "Dependency parsing"
       type: lecture
-      oldslides: assets/slides/2017/nlu_l08_depparsing1.pdf
+      slides: assets/slides/2018/l07.pdf
+      notes: assets/handouts/l07-handout.pdf
+    items:
+    - description: "Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations (Kiperwasser and Goldberg, 2016)"
+      url: https://aclweb.org/anthology/Q16-1023
+    - description: "Jurafsky and Martin Ch. 14 (3rd edition)"
+      url: https://web.stanford.edu/~jurafsky/slp3/
 - name: Week 7
   plan:
   - date: 2018-03-06
