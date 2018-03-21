@@ -113,34 +113,37 @@
   - date: 2018-03-16
     header: 
     - type: coursework
-- name: Weeks 7-10
+- name: Week 9
   plan:
-  - header:
-    - title: "<i>Exact lecture dates TBD</i>"
-  - header: 
+  - date: 2018-03-23
+    header:
     - title: "Recurrent neural network grammars"
-      oldslides: https://alopez.github.io/mt-class/assets/slides/17.pdf
+      slides: assets/slides/2018/l08.pdf
+      notes: assets/handouts/l08-handout.pdf
     items: 
     - description: "Recurrent neural network grammars (Dyer et al. 2016)"
       url: https://arxiv.org/pdf/1602.07776.pdf
     - description: "What do RNNGs learn about syntax? (Kuncoro et al. 2017)"
       url: http://www.aclweb.org/anthology/E17-1117
-  - header:
-    - title: "Semantic role labeling"
-      oldslides: assets/slides/2017/nlu_l14_srl.pdf
-    items:
-    - description: "End-to-end Learning of Semantic Role Labeling Using Recurrent Neural Networks (Zhou & Xu, 2015)"
-      url: http://www.aclweb.org/anthology/P15-1109
-  - header: 
+  - date: "<i>TBD</i>"
+    header: 
     - title: "POS tagging"
       oldslides: assets/slides/2017/nlu_l10_unsuptag1.pdf
     items:
     - description: "A Fully Bayesian Approach to Unsupervised Part-of-Speech Tagging (Goldwater & Griffiths, 2007)"
       url: http://www.aclweb.org/anthology/P/P07/P07-1094.pdf
-  - header:
+- name: Week 10
+  plan:
+  - date: 2018-03-27 
+    header:
+    - title: "Semantic role labeling"
+      oldslides: assets/slides/2017/nlu_l14_srl.pdf
+    items:
+    - description: "End-to-end Learning of Semantic Role Labeling Using Recurrent Neural Networks (Zhou & Xu, 2015)"
+      url: http://www.aclweb.org/anthology/P15-1109
+  - date: 2018-03-30
+    header:
     - title: "Semantic parsing"
-  - header: 
-    - title: "Additional topics TBD"
 - name: Week 11
   plan:
   - date: 2018-04-03
