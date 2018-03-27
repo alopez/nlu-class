@@ -137,10 +137,13 @@
   - date: 2018-03-27 
     header:
     - title: "Semantic role labeling"
-      oldslides: assets/slides/2017/nlu_l14_srl.pdf
+      slides: assets/slides/2018/l09.pdf
+      notes: assets/handouts/l09-handout.pdf
     items:
     - description: "End-to-end Learning of Semantic Role Labeling Using Recurrent Neural Networks (Zhou & Xu, 2015)"
       url: http://www.aclweb.org/anthology/P15-1109
+    - description: "Background: Jurafsky and Martin Ch. 22 (third edition)"
+      url: https://web.stanford.edu/~jurafsky/slp3/
   - date: 2018-03-30
     header:
     - title: "Semantic parsing"
