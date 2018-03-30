@@ -140,6 +140,8 @@
   - date: 2018-03-30
     header:
     - title: "Semantic parsing"
+      slides: assets/slides/2018/l10.pdf
+      notes: asssets/handouts/l10-handout.pdf
     items:
     - description: "Language to logical form with neural attention (Dong & Lapata, 2016)"
       url: http://www.aclweb.org/anthology/P16-1004
