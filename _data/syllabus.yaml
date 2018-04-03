@@ -147,22 +147,27 @@
       url: http://www.aclweb.org/anthology/P16-1004
     - description: "Background: Jurafsky and Martin, Intro to Ch. 28 and section 28.2 (third edition)"
       url: https://web.stanford.edu/~jurafsky/slp3/
-  - date: "<i>TBD</i>"
+- name: Week 11
+  plan:
+  - date: "<i>Video lecture</i>"
     header: 
     - title: "POS tagging"
-      oldslides: assets/slides/2017/nlu_l10_unsuptag1.pdf
+      slides: assets/slides/2018/l11.pdf
+      notes: assets/handouts/l11-handout.pdf
     items:
     - description: "A Fully Bayesian Approach to Unsupervised Part-of-Speech Tagging (Goldwater & Griffiths, 2007)"
       url: http://www.aclweb.org/anthology/P/P07/P07-1094.pdf
-- name: Week 11
-  plan:
   - date: 2018-04-03
     header: 
     - title: "Bias in NLP"
+      slides: assets/slides/2018/l12.pdf
+      notes: assets/handouts/l12-handout.pdf
     items:
-    - description: "Semantics derived automatically from language corpora contain human-like biases (Caliskan et al. (2017)"
+    - description: "The Social Impact of Natural Language Processing (Hovy and Spruit, 2016)"
+      url: http://www.aclweb.org/anthology/P16-2096
+    - description: "Semantics derived automatically from language corpora contain human-like biases (Caliskan et al., 2017)"
       url: http://opus.bath.ac.uk/55288/4/CaliskanEtAl_authors_full.pdf
-    - description: "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings (Bolukbasi et al. (2016)" 
+    - description: "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings (Bolukbasi et al., 2016)" 
       url: http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf
   - date: 2018-04-06
     header:
