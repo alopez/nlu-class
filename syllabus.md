@@ -3,17 +3,6 @@ title: NLU Syllabus
 active_tab: syllabus
 ---
 
-This syllabus is still being revised, so topics of future lectures are subject to change.
-
-There will be around fifteen lectures, and a few feedforward sessions for
-the coursework and exams.
-
-<div class="alert alert-info">
-Students enrolled in the course can access lecture recordings through 
-<a href="https://www.learn.ed.ac.uk">learn</a> using the "Media Hopper Replay" link in 
-the left sidebar.
-</div>
-
 <table class="table table-striped"> 
   <thead>
     <tr>
